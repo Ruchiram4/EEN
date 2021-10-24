@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  EENAssignment
+//
+//  Created by Ruchira Macbook on 2021-10-14.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = dev_test
+API_SECRET = 3H1Bf6mCctIgpCuzvrnyekf3VhAUEnKJ

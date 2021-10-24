@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  EENAssignment
+
+  Created by Ruchira Macbook on 2021-10-14.
+  
+*/
+
+"btn_login" = "Log in";
+"txt_enter_username" = "Enter your username/email";
+"txt_enter_password" = "Voer uw wachtwoord in";
+"txt_shake_for_demo" = "Schud apparaat voor demo!";
+
+"msg_title_oops" = "Oeps...";
+"msg_body_enter_both_username_password" = "Voer zowel uw gebruikersnaam als uw wachtwoord in.";
+"msg_ok" = "Oke";
+"msg_no_internet" = "Je hebt geen actieve internetverbinding!";
+
+"msg_body_incorrect_cred" = "Het lijkt erop dat uw inloggegevens onjuist zijn.";
+"msg_body_difficulty" = "We hebben momenteel wat moeilijkheden.";
+
+"txt_pull_refresh" = "Trek om te vernieuwen";
+"btn_logout" = "Uitloggen";
+
+"txt_camera_view_camera_id" = "Camera ID: ";
+"txt_camera_view_camera_name" = "Cameranaam: ";
+"txt_camera_view_mac_address" = "Mac adres: ";
+"txt_camera_view_zone_id" = "Zone-ID: ";
+"txt_no_cameras_placeholder" = "Oeps... Er zijn geen camera's om weer te geven.";
+
+/*Camera details view*/
+"txt_camera_detail_view_camera_id" = "Camera ID";
+"txt_camera_detail_view_camera_name" = "Naam";
+"txt_camera_detail_view_device_type_id" = "Apparaattype ID";
+"txt_camera_detail_view_ethernet_address" = "Ethernet Mac-adres";
+"txt_camera_detail_view_zone_id" = "Zone-ID";
+"txt_camera_detail_view_account_id" = "Account ID";
+"txt_camera_detail_view_online_status" = "Online status";
+"txt_camera_detail_view_recording_status" = "Opnamestatus in de cloud";
+"txt_camera_detail_view_audio_status" = "Status audio ingeschakeld";
+"txt_camera_detail_view_password_status" = "Wachtwoordstatus";
+"txt_camera_detail_view_firmware_status" = "Firmwarestatus";
+"txt_camera_detail_view_last_connection_result" = "Resultaat laatste verbinding";
+
+"txt_online" = "Online";
+"txt_offline" = "Offline";
+"txt_recording" = "Opnemen";
+"txt_not_recording" = "Niet opnemen";
+"txt_enabled" = "Ingeschakeld";
+"txt_disabled" = "Gehandicapt";
+"txt_password_known" = "Wachtwoord bekend";
+"txt_password_not_known" = "Wachtwoord onbekend";

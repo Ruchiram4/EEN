@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  EENAssignment
+
+  Created by Ruchira Macbook on 2021-10-14.
+  
+*/
+
+"btn_login" = "Login";
+"txt_enter_username" = "Enter your username/email";
+"txt_enter_password" = "Enter your password";
+"txt_shake_for_demo" = "Shake device for demo!";
+
+"msg_title_oops" = "Oops...";
+"msg_body_enter_both_username_password" = "Please enter both your username & password.";
+"msg_ok" = "OK";
+"msg_no_internet" = "You don't have an active internet connection!";
+
+"msg_body_incorrect_cred" = "It looks like your credentials are incorrect.";
+"msg_body_difficulty" = "We're facing some difficulties at the moment.";
+
+"txt_pull_refresh" = "Pull to refresh";
+"btn_logout" = "Logout";
+
+"txt_camera_view_camera_id" = "Camera Id: ";
+"txt_camera_view_camera_name" = "Camera Name: ";
+"txt_camera_view_mac_address" = "Mac Address: ";
+"txt_camera_view_zone_id" = "Zone Id: ";
+"txt_no_cameras_placeholder" = "Oops... There aren't any cameras to display.";
+
+/*Camera details view*/
+"txt_camera_detail_view_camera_id" = "Camera Id";
+"txt_camera_detail_view_camera_name" = "Name";
+"txt_camera_detail_view_device_type_id" = "Device Type Id";
+"txt_camera_detail_view_ethernet_address" = "Ethernet Mac Address";
+"txt_camera_detail_view_zone_id" = "Zone Id";
+"txt_camera_detail_view_account_id" = "Account Id";
+"txt_camera_detail_view_online_status" = "Online Status";
+"txt_camera_detail_view_recording_status" = "Recording Status On Cloud";
+"txt_camera_detail_view_audio_status" = "Audio Enabled Status";
+"txt_camera_detail_view_password_status" = "Password Status";
+"txt_camera_detail_view_firmware_status" = "Firmware Status";
+"txt_camera_detail_view_last_connection_result" = "Last Connection Result";
+
+"txt_online" = "Online";
+"txt_offline" = "Offline";
+"txt_recording" = "Recording";
+"txt_not_recording" = "Not Recording";
+"txt_enabled" = "Enabled";
+"txt_disabled" = "Disabled";
+"txt_password_known" = "Password Known";
+"txt_password_not_known" = "Password Unknown";
