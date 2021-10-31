@@ -126,6 +126,7 @@ class HomeViewController: BaseViewController {
     }
     
     override func logOutPress() {
+        
         displayLoadingView()
         super.logOutPress()
     }
